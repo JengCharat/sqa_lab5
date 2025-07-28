@@ -1,4 +1,4 @@
-// package sqa.main;
+package main;
 
 public class Income {
 	
